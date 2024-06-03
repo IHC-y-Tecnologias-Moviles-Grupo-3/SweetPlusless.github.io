@@ -386,6 +386,7 @@ html {
 }
 .navbar__icon-menu {
   cursor: pointer;
+   width: 12%;
 }
 @media (min-width: 768px) {
   .navbar__icon-menu {
