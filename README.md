@@ -5,6 +5,7 @@ Grupo: 3
 Integrantes:
 - Salim Ramirez
 - Manuel Orellana
+- Bertha Román
 
 Descripción del proyecto:
 
