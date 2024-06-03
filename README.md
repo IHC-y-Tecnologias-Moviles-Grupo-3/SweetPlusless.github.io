@@ -11,6 +11,6 @@ TerraPlan es una startup fundada por un equipo de jóvenes estudiantes de la Uni
 
 MISIÓN Y VISIÓN DEL PROYECTO
 Misión: 
-La misión de TerraPlan es proporcionar herramientas avanzadas de diseño arquitectónico y evaluación de terrenos que permitan a empresas y particulares llevar a cabo sus proyectos de construcción de manera eficiente y rentable.
+La misión de TerraPlan es proporcionar herramientas avanzadas de diseño arquitectónico y evaluación de terrenos que permitan a empresas y particulares llevar a cabo sus proyectos de construcción de manera eficiente y rentable. Nos comprometemos a ofrecer un servicio personalizado y de alta calidad, centrado en satisfacer las necesidades específicas de cada cliente.
 Visión:
 La visión de TerraPlan es convertirse en un referente en el desarrollo de aplicaciones innovadoras para la industria de la construcción.
