@@ -6,7 +6,7 @@ Integrantes:
 - Salim Ramirez
 - Manuel Orellana
 
-Descripción del proyecto: 
+Descripción del proyecto:
 
 TerraPlan es una startup fundada por un equipo de jóvenes estudiantes de la Universidad Peruana de Ciencias Aplicadas con experiencia en tecnología. Reconocemos la necesidad de simplificar y agilizar 
 el proceso de diseño y evaluación de terrenos para proyectos de construcción. Por eso, nos enfocamos en desarrollar TerraPlan, una plataforma innovadora que combina tecnología de vanguardia con 
@@ -14,7 +14,7 @@ inteligencia artificial para ofrecer soluciones eficientes y personalizadas a nu
 
 MISIÓN Y VISIÓN DEL PROYECTO
 
-Misión: 
+Misión:
 
 La misión de TerraPlan es proporcionar herramientas avanzadas de diseño arquitectónico y evaluación de terrenos que permitan a empresas y particulares llevar a cabo sus proyectos de construcción de 
 manera eficiente y rentable. Nos comprometemos a ofrecer un servicio personalizado y de alta calidad, centrado en satisfacer las necesidades específicas de cada cliente.
