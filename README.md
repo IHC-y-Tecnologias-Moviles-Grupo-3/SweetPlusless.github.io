@@ -18,4 +18,4 @@ La misión de TerraPlan es proporcionar herramientas avanzadas de diseño arquit
 
 Visión:
 
-La visión de TerraPlan es convertirse en un referente en el desarrollo de aplicaciones innovadoras para la industria de la construcción. Nos esforzamos por ser reconocidos como líderes en la creación de soluciones tecnológicas que faciliten el proceso de diseño y planificación urbana, brindando a nuestros clientes la facilidad y la confianza necesarias para llevar a cabo sus proyectos con éxito.
+La visión de TerraPlan es convertirse en un referente en el desarrollo de aplicaciones innovadoras para la industria de la construcción. Nos esforzamos por ser reconocidos como líderes en la creación de soluciones tecnológicas que faciliten el proceso de diseño y planificación urbana, brindando a nuestros clientes la facilidad y la confianza necesarias para llevar a cabo sus proyectos con éxito. Enfocandonos en la excelencia técnica y el servicio al cliente, aspiramos a ser una fuerza impulsora en la transformación digital del sector de la construcción, ayudando a construir un futuro más eficiente y sostenible para todos.
