@@ -13,3 +13,4 @@ MISIÓN Y VISIÓN DEL PROYECTO
 Misión: 
 La misión de TerraPlan es proporcionar herramientas avanzadas de diseño arquitectónico y evaluación de terrenos que permitan a empresas y particulares llevar a cabo sus proyectos de construcción de manera eficiente y rentable.
 Visión:
+La visión de TerraPlan es convertirse en un referente en el desarrollo de aplicaciones innovadoras para la industria de la construcción.
