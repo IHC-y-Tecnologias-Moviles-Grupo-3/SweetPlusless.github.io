@@ -5,3 +5,6 @@ Grupo: 3
 Integrantes:
 - Salim Ramirez
 - Manuel Orellana
+
+Descripción del proyecto:
+TerraPlan es una startup fundada por un equipo de jóvenes estudiantes de la Universidad Peruana de Ciencias Aplicadas con experiencia en tecnología. Reconocemos la necesidad de simplificar y agilizar el
