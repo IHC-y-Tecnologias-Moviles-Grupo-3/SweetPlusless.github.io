@@ -4,3 +4,4 @@ IHC y Tecnologías Móviles
 Grupo: 3
 Integrantes:
 - Salim Ramirez
+- Manuel Orellana
