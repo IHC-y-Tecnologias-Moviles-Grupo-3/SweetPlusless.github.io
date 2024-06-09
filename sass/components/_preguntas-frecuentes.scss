@@ -23,7 +23,7 @@
             .preguntas-frecuentes__question{
                 background-color: $imput-bg-selected;
                 div{
-                    background-image: url(../asset/icon/arrow-down.svg);
+                    background-image: url(../assets/icon/arrow-down.svg);
                 }
             }
             .preguntas-frecuentes__answer{
@@ -46,7 +46,7 @@
             color: $text-black;
         }
         div{
-            background-image: url(../asset/icon/arrow-up.svg);
+            background-image: url(../assets/icon/arrow-up.svg);
             background-repeat: no-repeat;
             background-position: center;
             background-size: contain;
