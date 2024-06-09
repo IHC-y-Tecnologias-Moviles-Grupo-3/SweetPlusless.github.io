@@ -854,7 +854,7 @@ html {
   justify-content: center;
   align-items: center;
   gap: 1.2rem;
-  background-image: url(../assets/img/Contact-us-background.svg);
+  background-image: url(../asset/img/Contact-us-background.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -937,7 +937,7 @@ html {
   background-color: rgb(35, 193, 53);
 }
 .preguntas-frecuentes__card:hover .preguntas-frecuentes__question div {
-  background-image: url(../assets/icon/arrow-down.svg);
+  background-image: url(../asset/icon/arrow-down.svg);
 }
 .preguntas-frecuentes__card:hover .preguntas-frecuentes__answer {
   display: block;
@@ -961,7 +961,7 @@ html {
   color: rgb(0, 0, 0);
 }
 .preguntas-frecuentes__question div {
-  background-image: url(../assets/icon/arrow-up.svg);
+  background-image: url(../asset/icon/arrow-up.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
