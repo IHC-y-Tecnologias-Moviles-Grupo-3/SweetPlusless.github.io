@@ -1,0 +1,41 @@
+.sobre-nosotros {
+    @include max-WIDTH();
+    padding: $padding-general-x $padding-general-y;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    @include respond-to('medium'){
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    &__content{
+        display: flex;
+        flex-direction: column;
+        gap: 1.2rem;
+        @include respond-to('medium'){
+            order: 2;
+            max-width: 40rem;
+            padding-bottom: 2.5rem;
+        }
+    }
+    &__title{
+        @extend .conoce-mas__title;
+        text-align: center;
+    }
+    &__info{
+        @include m-body-2();
+        color: $text-gray;
+        text-align: justify;
+    }
+    &__img{
+        width: 100%;
+        max-width: 17rem;
+        margin: 0 auto;
+        aspect-ratio: 1/1;
+        @include respond-to('medium'){
+            order: 1;
+            margin-left: auto;
+        }
+    }
+}
