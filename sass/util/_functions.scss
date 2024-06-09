@@ -1,8 +1,0 @@
-//FUNTION
-@function pow($base, $exponente) {
-    $result: 1;
-    @for $_ from 1 through $exponente {
-        $result : $result * &base;
-    }
-    @return $result;
-}
