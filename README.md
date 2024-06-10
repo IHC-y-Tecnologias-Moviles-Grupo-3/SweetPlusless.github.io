@@ -18,6 +18,9 @@ construir una vivienda y que pueden beneficiarse de las facilidades y herramient
 El segundo segmento objetivo está dirigido a las empresas inmobiliarias, las cuales pueden encontrar en nuestra aplicación un 
 recurso valioso para agilizar y simplificar diversos procesos relacionados con sus proyectos inmobiliarios.
 
-a
+Principales características
+
+A continuación se listarán las características más importantes de TerraPlan, las cuales tienen una fuerte 
+inspiración y relación con el aprovechamiento de la potencia de las más novedosas tecnologías existentes, 
 
 [INGRESAR Conclusiones AQUÍ]
