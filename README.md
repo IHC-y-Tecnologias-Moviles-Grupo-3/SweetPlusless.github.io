@@ -28,7 +28,7 @@ Administración de perfil de usuario: El usuario tiene la posibilidad de crear u
 guarden sus preferencias y puede actualizar esta información cuando crea conveniente.
 
 Proyectos: Los usuarios de TerraPlan pueden crear proyectos nuevos y revisar toda la información 
-relacionada a sus proyectos actuales dentro de nuestra plataforma.
+relacionada con sus proyectos actuales dentro de nuestra plataforma.
 
 Asistencia capacitada: El usuario puede solicitar la asistencia de personal capacitado en la materia en 
 cualquier momento para asistirlo en la creación y seguimiento de sus proyectos, ya sea mediante un chat de 
