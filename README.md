@@ -1,10 +1,10 @@
 Información del proyecto
 
-TerraPlan es una StartUp fundada por un equipo de jóvenes estudiantes de la Universidad Peruana de Ciencias Aplicadas con un 
-poco de experiencia en tecnología pero muchas ganas de salir adelante. Reconocemos la necesidad de simplificar y agilizar el 
-proceso de diseño y evaluación de terrenos para proyectos de construcción. Por eso, nos enfocamos en desarrollar TerraPlan, 
-una plataforma innovadora que combina tecnología de vanguardia con Inteligencia Artificial para ofrecer soluciones eficientes 
-y personalizadas a nuestros clientes.
+TerraPlan es una StartUp fundada por un equipo de jóvenes estudiantes de la Universidad Peruana de Ciencias Aplicadas con poca 
+experiencia en tecnología pero muchas ganas de salir adelante. Reconocemos la necesidad de simplificar y agilizar el proceso de 
+diseño y evaluación de terrenos para proyectos de construcción. Por eso, nos enfocamos en desarrollar TerraPlan, una plataforma 
+innovadora que combina tecnología de vanguardia con Inteligencia Artificial para ofrecer soluciones eficientes y personalizadas 
+a nuestros clientes.
 
 [INGRESAR Autores y descripción AQUÍ]
 
