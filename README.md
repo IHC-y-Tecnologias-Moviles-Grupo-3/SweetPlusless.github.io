@@ -6,6 +6,8 @@ proceso de diseño y evaluación de terrenos para proyectos de construcción. Po
 una plataforma innovadora que combina tecnología de vanguardia con Inteligencia Artificial para ofrecer soluciones eficientes 
 y personalizadas a nuestros clientes.
 
+[INGRESAR Autores y descripción AQUÍ]
+
 Segmentos Objetivo
 
 Tenemos dos segmentos objetivos en mente:
