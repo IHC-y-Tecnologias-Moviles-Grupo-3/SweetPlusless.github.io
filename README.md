@@ -27,4 +27,7 @@ como lo es la Inteligencia Artificial.
 Administración de perfil de usuario: El usuario tiene la posibilidad de crear un perfil en el que se 
 guarden sus preferencias y puede actualizar esta información cuando crea conveniente.
 
+Proyectos: Los usuarios de TerraPlan pueden crear proyectos nuevos y revisar toda la información 
+relacionada a sus proyectos actuales dentro de nuestra plataforma.
+
 [INGRESAR Conclusiones AQUÍ]
