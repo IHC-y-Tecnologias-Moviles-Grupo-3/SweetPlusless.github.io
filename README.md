@@ -6,7 +6,7 @@ de diseño y evaluación de terrenos para proyectos de construcción. Por eso, n
 innovadora que combina tecnología de vanguardia con Inteligencia Artificial para ofrecer soluciones eficientes y personalizadas a 
 nuestros clientes.
 
--------->[INGRESAR Autores y descripción AQUÍ]<--------
+--------> [INGRESAR Autores y descripción AQUÍ] <--------
 
 Segmentos Objetivo
 
@@ -18,7 +18,7 @@ construir una vivienda y que pueden beneficiarse de las facilidades y herramient
 El segundo segmento objetivo está dirigido a las empresas inmobiliarias, las cuales pueden encontrar en nuestra aplicación un 
 recurso valioso para agilizar y simplificar diversos procesos relacionados con sus proyectos inmobiliarios.
 
-Principales características
+Principales Características
 
 A continuación se listarán las características más importantes de TerraPlan, las cuales tienen una fuerte 
 inspiración y relación con el aprovechamiento de la potencia de las más novedosas tecnologías existentes, 
@@ -34,4 +34,4 @@ Asistencia capacitada: El usuario puede solicitar la asistencia de personal capa
 cualquier momento para asistirlo en la creación y seguimiento de sus proyectos, ya sea mediante un chat de 
 texto, llamada o videollamada.
 
--------->[INGRESAR Conclusiones AQUÍ]<--------
+--------> [INGRESAR Conclusiones AQUÍ] <--------
