@@ -28,7 +28,8 @@ relacionado a programación, por lo que espero que sea útil para lograr un buen
 Ricardo Americo Rivera Zelada: 
 Soy estudiante de Ingeniería de Sistemas de Información de la UPC. Soy una persona que sabe trabajar en equipo, 
 además de ser eficiente para realizar tareas variadas. 
-Bertha: 
+
+Bertha Román: 
 En estos momentos estoy cursando la carrera de ingeniería de software, en la cual obtengo conocimientos variados 
 ya que integra distintas ciencias como computación, ciencias básicas y ciencias aplicadas.
 Puedo usar estos conocimientos para transformarlos en un producto industrial usando bases de la ingeniería para desarrollar algo innovador.
@@ -59,4 +60,14 @@ Asistencia capacitada: El usuario puede solicitar la asistencia de personal capa
 cualquier momento para asistirlo en la creación y seguimiento de sus proyectos, ya sea mediante un chat de 
 texto, llamada o videollamada.
 
---------> [INGRESAR Conclusiones AQUÍ] <--------
+Conclusión:
+
+El proceso de elaboración de este proyecto ha sido una experiencia gratificante y enriquecedora,
+ya que nos ha brindado la oportunidad de crecer tanto como estudiantes como futuros profesionales.
+Este crecimiento ha sido posible gracias a la aplicación práctica de los conocimientos, consejos y recomendaciones
+adquiridos durante el curso y gracias a la orientación de nuestra profesora.
+Trabajando en equipo en el proyecto para TerraPlan, hemos puesto en práctica habilidades relacionadas con
+la creación de interfaces intuitivas, el desarrollo front-end y el diseño de colores,
+al mismo tiempo que hemos aplicado conocimientos previos en áreas como la tecnología para mejorar el proceso de diseño
+y evaluación de planos en proyectos de construcción.
+
