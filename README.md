@@ -22,5 +22,9 @@ Principales características
 
 A continuación se listarán las características más importantes de TerraPlan, las cuales tienen una fuerte 
 inspiración y relación con el aprovechamiento de la potencia de las más novedosas tecnologías existentes, 
+como lo es la Inteligencia Artificial.
+
+Administración de perfil de usuario: El usuario tiene la posibilidad de crear un perfil en el que se 
+guarden sus preferencias y puede actualizar esta información cuando crea conveniente.
 
 [INGRESAR Conclusiones AQUÍ]
